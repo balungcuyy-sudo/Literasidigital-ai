@@ -1,1 +1,429 @@
+A. Istilah Dasar Literasi Digital
+1. Literasi Digital: Kemampuan seseorang dalam menggunakan teknologi digital untuk mencari, memahami, mengevaluasi, membuat, dan menyebarkan informasi secara bijak.
 
+2. Artificial Intelligence (AI): Teknologi kecerdasan buatan yang memungkinkan komputer melakukan tugas yang biasanya membutuhkan kecerdasan manusia.
+
+3. Digital Content: Konten atau informasi yang dibuat dan disebarkan dalam bentuk digital, seperti artikel, buku elektronik, video, dan gambar.
+
+4. Digital Publishing: Proses menerbitkan dan menyebarkan karya tulis melalui platform digital.
+
+5. Digital Literacy Skills: Keterampilan dalam menggunakan perangkat dan teknologi digital secara efektif, kritis, serta bertanggung jawab.
+
+6. Information Literacy: Kemampuan mencari, mengidentifikasi, mengevaluasi, dan menggunakan informasi yang tepat.
+
+7. Digital Footprint: Jejak aktivitas seseorang yang tertinggal ketika menggunakan internet.
+
+8. Open Access: Sistem publikasi yang memungkinkan masyarakat mengakses karya ilmiah secara gratis melalui internet.
+B. Istilah dalam Pembuatan Buku
+
+
+
+
+
+
+
+
+medium.com
+
+
+9. E-book (Electronic Book): Buku dalam format digital yang dapat dibaca melalui komputer, tablet, atau smartphone.
+
+10. Manuscript (Naskah): Tulisan awal yang disiapkan penulis sebelum diterbitkan menjadi buku.
+
+11. ISBN (International Standard Book Number): Nomor identifikasi internasional yang digunakan untuk mengenali suatu edisi atau format buku.
+
+12. Layout: Proses mengatur tata letak teks, gambar, tabel, dan elemen lainnya agar buku terlihat rapi.
+
+13. Typography: Seni dan teknik mengatur huruf agar tulisan mudah dibaca dan menarik secara visual.
+
+14. Book Cover Design: Proses merancang sampul buku yang mencerminkan isi dan identitas buku.
+
+15. Editing: Proses memperbaiki isi tulisan, bahasa, struktur kalimat, dan kesesuaian materi.
+
+16. Proofreading: Tahap pemeriksaan akhir untuk menemukan kesalahan ejaan, tanda baca, dan pengetikan.
+
+17. Formatting: Proses mengatur format dokumen, seperti ukuran kertas, margin, spasi, jenis huruf, dan penomoran halaman.
+
+18. PDF (Portable Document Format): Format dokumen digital yang mempertahankan tampilan dan susunan halaman ketika dibuka di perangkat berbeda.
+
+19. EPUB (Electronic Publication): Format buku digital yang dirancang agar tampilannya dapat menyesuaikan ukuran layar perangkat pembaca.
+
+20. Self-Publishing: Proses menerbitkan buku secara mandiri tanpa harus melalui penerbit konvensional.
+
+21. Metadata Buku: Informasi mengenai buku, seperti judul, nama penulis, penerbit, tahun terbit, dan ISBN.
+
+22. Copyright: Hak cipta yang memberikan perlindungan hukum terhadap karya seseorang.
+C. Istilah dalam Pembuatan Jurnal Ilmiah
+
+
+
+
+
+
+
+
+sourcely.net
+
+
+23. Jurnal Ilmiah: Publikasi berkala yang memuat hasil penelitian, kajian, atau pemikiran ilmiah.
+
+24. Research (Penelitian): Kegiatan sistematis untuk memperoleh pengetahuan atau menemukan jawaban atas suatu permasalahan.
+
+25. Abstract (Abstrak): Ringkasan singkat yang berisi tujuan, metode, hasil, dan kesimpulan penelitian.
+
+26. Keywords (Kata Kunci): Kata atau frasa penting yang menggambarkan topik utama suatu artikel ilmiah.
+
+27. Introduction (Pendahuluan): Bagian jurnal yang menjelaskan latar belakang, permasalahan, dan tujuan penelitian.
+
+28. Literature Review (Tinjauan Pustaka): Pembahasan mengenai teori dan penelitian terdahulu yang relevan dengan topik penelitian.
+
+29. Methodology (Metodologi Penelitian): Penjelasan mengenai pendekatan, metode, teknik pengumpulan, dan analisis data.
+
+30. Results (Hasil Penelitian): Bagian yang menyajikan temuan berdasarkan proses penelitian.
+
+31. Discussion (Pembahasan): Bagian yang menjelaskan makna hasil penelitian dan menghubungkannya dengan teori atau penelitian sebelumnya.
+
+32. Conclusion (Kesimpulan): Ringkasan jawaban atas tujuan atau pertanyaan penelitian.
+
+33. References (Daftar Referensi): Daftar sumber yang digunakan dan dirujuk dalam penulisan karya ilmiah.
+
+34. Citation (Sitasi): Penyebutan sumber informasi yang digunakan dalam suatu tulisan.
+
+35. DOI (Digital Object Identifier): Identitas digital permanen yang digunakan untuk mengidentifikasi dan menemukan publikasi digital.
+
+36. Peer Review: Proses penilaian karya ilmiah oleh ahli atau peneliti lain sebelum diterbitkan.
+
+37. Plagiarism (Plagiarisme): Tindakan mengambil atau menggunakan karya maupun gagasan orang lain tanpa memberikan pengakuan sumber yang semestinya.
+
+38. Scientific Writing: Teknik penulisan yang menggunakan bahasa formal, sistematis, objektif, dan berdasarkan bukti ilmiah.
+D. Istilah Teknologi AI untuk Penulisan Buku dan Jurnal
+
+
+
+
+
+
+
+
+economictimes.indiatimes.com
+
+
+39. Prompt: Instruksi atau perintah yang diberikan kepada AI untuk menghasilkan jawaban atau menyelesaikan tugas tertentu.
+
+40. Prompt Engineering: Teknik menyusun instruksi agar AI menghasilkan jawaban yang lebih relevan dan sesuai kebutuhan.
+
+41. Chatbot: Program komputer yang dapat berkomunikasi dengan manusia melalui percakapan teks atau suara.
+
+42. Generative AI: Teknologi AI yang mampu menghasilkan konten baru, seperti teks, gambar, suara, dan kode.
+
+43. AI Writing Assistant: Alat berbasis AI yang membantu proses penulisan, penyuntingan, dan pengembangan ide.
+
+44. Paraphrasing: Teknik menyampaikan kembali informasi menggunakan susunan kata yang berbeda tanpa mengubah makna aslinya.
+
+45. Grammar Checker: Alat digital untuk memeriksa tata bahasa, ejaan, dan struktur kalimat.
+
+46. Reference Manager: Perangkat lunak untuk mengelola referensi dan menyusun sitasi secara otomatis.
+
+47. AI Detection: Teknologi yang mencoba mengidentifikasi apakah suatu teks memiliki karakteristik tulisan yang dihasilkan AI. Hasilnya tidak selalu akurat.
+
+48. Hallucination AI: Kondisi ketika AI menghasilkan informasi yang terdengar meyakinkan, tetapi ternyata keliru atau tidak memiliki dasar yang valid.
+
+49. Machine Learning: Cabang AI yang memungkinkan sistem komputer mempelajari pola dari data.
+
+50. Natural Language Processing (NLP): Teknologi yang memungkinkan komputer memahami dan mengolah bahasa manusia.
+E. Istilah Platform dan Aplikasi Pendukung Penulisan
+Berikut beberapa perangkat digital yang dapat membantu mahasiswa dalam membuat buku dan jurnal.
+
+
+
+
+
+
+
+
+
+
+51. Google Docs
+
+Aplikasi pengolah dokumen berbasis daring untuk menulis dan mengedit naskah secara kolaboratif.
+
+Kunjungi Google Docs
+
+
+
+
+
+
+
+
+
+
+
+
+
+52. Microsoft Word
+
+Aplikasi pengolah kata untuk membuat buku, makalah, laporan, dan artikel ilmiah.
+
+Kunjungi Microsoft Word
+
+
+
+
+
+
+
+
+
+
+
+
+
+53. Zotero
+
+Aplikasi pengelola referensi untuk menyimpan sumber dan membantu membuat sitasi serta daftar pustaka.
+
+Kunjungi Zotero
+
+
+
+
+
+
+
+
+
+
+
+
+
+54. Mendeley
+
+Perangkat lunak untuk mengelola referensi penelitian dan membantu proses sitasi.
+
+Kunjungi Mendeley
+
+
+
+
+
+
+
+
+
+
+
+
+
+55. Google Scholar
+
+Mesin pencari untuk menemukan artikel ilmiah, tesis, buku akademik, dan publikasi penelitian.
+
+Kunjungi Google Scholar
+
+
+
+
+
+
+
+
+
+
+
+
+
+56. Canva
+
+Platform desain grafis yang dapat digunakan untuk membuat sampul buku, infografis, dan materi publikasi.
+
+Kunjungi Canva
+
+
+
+
+
+
+
+
+
+
+
+
+
+57. Overleaf
+
+Platform penyunting dokumen berbasis LaTeX yang banyak digunakan untuk penulisan artikel ilmiah dan dokumen akademik.
+
+Kunjungi Overleaf
+
+
+
+F. Istilah Etika dan Keamanan Digital dalam Publikasi
+58. Digital Ethics: Prinsip moral dalam menggunakan teknologi digital secara bertanggung jawab.
+
+59. Data Privacy: Perlindungan informasi pribadi agar tidak digunakan atau disebarkan tanpa izin.
+
+60. Cybersecurity: Upaya melindungi perangkat, jaringan, dan informasi digital dari ancaman keamanan.
+
+61. Intellectual Property: Hak atas hasil kreativitas dan karya intelektual seseorang.
+
+62. Creative Commons: Lisensi yang memungkinkan pencipta memberikan izin penggunaan karyanya berdasarkan ketentuan tertentu.
+
+63. Fact Checking: Proses memeriksa kebenaran informasi sebelum digunakan atau dipublikasikan.
+
+64. Academic Integrity: Prinsip kejujuran dan tanggung jawab dalam kegiatan akademik, termasuk penelitian dan penulisan.
+
+65. AI Ethics: Prinsip penggunaan kecerdasan buatan secara adil, transparan, aman, dan bertanggung jawab.
+
+G. Penutup Artikel
+
+
+
+
+
+
+
+
+graduate.chuo-u.ac.jp
+
+
+Literasi digital memiliki peran penting dalam perkembangan dunia pendidikan, khususnya dalam pembuatan buku dan jurnal ilmiah. Dengan memahami berbagai istilah di atas, mahasiswa dapat meningkatkan kemampuan dalam mencari informasi, mengolah referensi, menyusun karya tulis, hingga memublikasikan hasil pemikirannya melalui media digital.
+
+Kehadiran Artificial Intelligence (AI) juga memberikan peluang baru dalam dunia penulisan. Namun, AI sebaiknya digunakan sebagai alat bantu, bukan sebagai pengganti pemikiran kritis, kreativitas, dan tanggung jawab penulis.
+
+Teknologi memberikan kemudahan, tetapi kualitas sebuah karya tetap ditentukan oleh pengetahuan, kejujuran, dan tanggung jawab penulisnya.
+
+Saran pengembangan blog
+Agar blog Bahrul memiliki identitas edukasi yang kuat, kumpulan istilah ini bisa dijadikan seri artikel berkelanjutan:
+Seri	Tema artikel
+Seri 1	65 Istilah Literasi Digital dalam Pembuatan Buku dan Jurnal
+Seri 2	25 Istilah Kecerdasan Buatan (AI) untuk Mahasiswa
+Seri 3	20 Istilah dalam Dunia Penelitian Ilmiah
+Seri 4	15 Aplikasi AI untuk Membantu Penulisan Buku
+Seri 5	Etika Penggunaan AI dalam Penulisan Karya Ilmiah
+
+Rekomendasi saya: Jadikan artikel ini sebagai seri pertama dengan judul Kamus Literasi Digital: Mengenal Istilah Penting dalam Pembuatan Buku dan Jurnal Ilmiah. Dengan begitu, blog Bahrul dapat berkembang menjadi sumber belajar digital bagi mahasiswa dan masyarakat umum.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+masih kurang 45 istilah lagi nii
+
+
+
+
+
+
+
+
+
+
+
+
+
+Siap, Bahrul! Kita lanjutkan dari nomor 66 sampai 110, sehingga kumpulan istilah Literasi Digital Bahrul memiliki total 110 istilah. Saya tambahkan istilah yang lebih beragam, khususnya berkaitan dengan penerbitan buku, penelitian ilmiah, teknologi digital, dan penggunaan AI.
+Lanjutan Kamus Literasi Digital: 45 Istilah Tambahan untuk Pembuatan Buku dan Jurnal
+G. Istilah Pengembangan dan Penerbitan Buku
+66. Book Publishing: Proses menerbitkan buku, mulai dari penyusunan naskah, penyuntingan, desain, hingga buku siap dipasarkan atau dibagikan.
+
+67. Publisher (Penerbit): Lembaga atau perusahaan yang bertanggung jawab dalam proses penerbitan dan distribusi buku.
+
+68. Book Catalog: Daftar koleksi buku yang memuat informasi seperti judul, penulis, penerbit, dan tahun terbit.
+
+69. Foreword (Kata Pengantar Tokoh): Tulisan pembuka dalam buku yang biasanya dibuat oleh seseorang selain penulis untuk memperkenalkan atau memberikan penilaian terhadap buku.
+
+70. Preface (Prakata): Bagian pembuka yang ditulis oleh penulis untuk menjelaskan tujuan, latar belakang, dan proses penyusunan buku.
+
+71. Table of Contents (Daftar Isi): Susunan judul bab dan subbab beserta nomor halaman dalam sebuah buku.
+
+72. Bibliography (Bibliografi): Daftar sumber bacaan atau referensi yang berkaitan dengan isi suatu karya.
+
+73. Index (Indeks): Daftar istilah atau topik penting dalam buku yang disusun secara alfabetis beserta nomor halamannya.
+
+74. Blurb: Deskripsi singkat pada sampul belakang buku yang bertujuan memberikan gambaran mengenai isi buku kepada calon pembaca.
+
+75. Book Distribution: Proses penyaluran buku kepada pembaca melalui toko buku, perpustakaan, atau platform digital.
+H. Istilah Penelitian dan Pengelolaan Data Digital
+76. Research Proposal: Dokumen rancangan penelitian yang menjelaskan masalah, tujuan, metode, dan rencana pelaksanaan penelitian.
+
+77. Research Gap: Kesenjangan pengetahuan atau aspek penelitian yang belum banyak dibahas oleh penelitian sebelumnya.
+
+78. Hypothesis (Hipotesis): Dugaan sementara terhadap suatu permasalahan yang perlu diuji melalui penelitian.
+
+79. Variable (Variabel): Karakteristik atau faktor yang dapat berubah dan menjadi objek pengamatan dalam penelitian.
+
+80. Primary Data (Data Primer): Data yang diperoleh secara langsung oleh peneliti melalui wawancara, observasi, atau kuesioner.
+
+81. Secondary Data (Data Sekunder): Data yang diperoleh dari sumber yang sudah tersedia, seperti buku, jurnal, laporan, dan dokumen.
+
+82. Data Visualization: Proses menyajikan data dalam bentuk visual, seperti grafik, diagram, atau infografis.
+
+83. Data Analysis: Proses mengolah dan memeriksa data untuk memperoleh informasi dan kesimpulan penelitian.
+
+84. Research Database: Sistem atau tempat penyimpanan digital yang menyediakan kumpulan data dan publikasi untuk kebutuhan penelitian.
+
+85. Systematic Literature Review (SLR): Metode kajian pustaka yang dilakukan secara sistematis untuk mengidentifikasi, mengevaluasi, dan merangkum penelitian terdahulu.
+I. Istilah Teknologi dan Sistem Publikasi Digital
+86. Online Journal System (OJS): Perangkat lunak untuk mengelola proses penerbitan jurnal ilmiah secara daring, mulai dari pengiriman artikel hingga publikasi.
+
+87. Digital Repository: Tempat penyimpanan karya ilmiah dan dokumen digital agar dapat dikelola serta diakses kembali.
+
+88. Cloud Storage: Layanan penyimpanan data melalui internet sehingga dokumen dapat diakses dari berbagai perangkat.
+
+89. Hyperlink: Tautan yang menghubungkan suatu teks atau gambar dengan halaman atau sumber informasi lain.
+
+90. QR Code (Quick Response Code): Kode berbentuk dua dimensi yang dapat dipindai menggunakan perangkat digital untuk membuka informasi atau tautan tertentu.
+
+91. Hypertext: Sistem teks digital yang memungkinkan pembaca berpindah dari satu informasi ke informasi lainnya melalui tautan.
+
+92. Optical Character Recognition (OCR): Teknologi yang dapat mengenali teks dari gambar atau hasil pemindaian dokumen dan mengubahnya menjadi teks digital.
+
+93. Digital Archive: Sistem pengarsipan dokumen dalam bentuk digital agar informasi dapat disimpan dan ditemukan kembali.
+
+94. Version Control: Sistem untuk mencatat dan mengelola perubahan pada dokumen atau file selama proses pengerjaan.
+
+95. Content Management System (CMS): Perangkat lunak untuk membuat, mengelola, dan memublikasikan konten digital, termasuk artikel blog.
+J. Istilah Lanjutan Kecerdasan Buatan untuk Penulisan
+96. Large Language Model (LLM): Model AI yang dilatih menggunakan data bahasa dalam jumlah besar untuk memahami dan menghasilkan teks.
+
+97. Tokenization: Proses memecah teks menjadi bagian-bagian kecil yang disebut token agar dapat diproses oleh sistem AI.
+
+98. Context Window: Jumlah informasi atau token yang dapat dipertimbangkan oleh model AI dalam suatu proses percakapan atau pemrosesan.
+
+99. Fine-Tuning: Proses menyesuaikan model AI yang sudah dilatih sebelumnya menggunakan data tambahan untuk kebutuhan tertentu.
+
+100. Retrieval-Augmented Generation (RAG): Teknik yang menggabungkan kemampuan AI menghasilkan teks dengan pencarian informasi dari sumber eksternal.
+
+101. Multimodal AI: Teknologi AI yang mampu memproses atau menggabungkan berbagai jenis informasi, seperti teks, gambar, suara, dan video.
+
+102. AI-Assisted Research: Pemanfaatan kecerdasan buatan untuk membantu kegiatan penelitian, seperti mencari ide, merangkum informasi, dan mengelompokkan data.
+
+103. Text Summarization: Proses meringkas sebuah teks panjang menjadi tulisan yang lebih singkat tanpa menghilangkan inti informasi.
+
+104. Semantic Search: Teknologi pencarian yang memahami makna dan konteks pertanyaan, bukan hanya mencocokkan kata kunci.
+
+105. Human-in-the-Loop (HITL): Pendekatan yang melibatkan manusia dalam proses kerja AI untuk memeriksa, mengevaluasi, dan memperbaiki hasil yang dihasilkan sistem.
+K. Istilah Distribusi, Publikasi, dan Evaluasi Konten Digital
+106. Search Engine Optimization (SEO): Teknik mengoptimalkan konten agar lebih mudah ditemukan melalui mesin pencari seperti Google.
+
+107. Digital Marketing: Kegiatan pemasaran produk atau layanan menggunakan media dan teknologi digital.
+
+108. Analytics: Proses mengumpulkan dan menganalisis data untuk mengetahui kinerja suatu konten atau platform digital.
+
+109. Engagement: Tingkat interaksi pembaca dengan konten digital, seperti komentar, suka, dan berbagi.
+
+110. Digital Accessibility: Upaya membuat konten dan layanan digital agar dapat digunakan oleh berbagai kalangan, termasuk penyandang disabilitas.
